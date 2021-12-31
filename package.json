@@ -7,7 +7,7 @@
   "scripts":{
     "start": "node server.js"
   },
-  "author": "Betul",
+  "author": "Gizem",
   "dependencies": {
     "json-server": "^0.17.0"
   }
